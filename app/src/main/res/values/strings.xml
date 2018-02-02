@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chameleo</string>
+    <string name="googlemapps_api_key">AIzaSyBygHo0cYKFBULjpyfqQwARTegqwpMI0es</string>
+    <string name="title_activity_chameleo_maps">Map</string>
+    <string name="title_activity_maps_chameleo">Map</string>
+
+</resources>

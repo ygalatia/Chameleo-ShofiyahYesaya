@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "721324439801",
+    "firebase_url": "https://chameleo-9768e.firebaseio.com",
+    "project_id": "chameleo-9768e",
+    "storage_bucket": "chameleo-9768e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721324439801:android:ccef5e0306f53612",
+        "android_client_info": {
+          "package_name": "com.example.ye.chameleo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721324439801-ksl5bhfrlvu4p0rs1g0h4nfpl4ovbokr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ye.chameleo",
+            "certificate_hash": "d4ce4bbaa42bacb03a8098042c2eb236c59caa9e"
+          }
+        },
+        {
+          "client_id": "721324439801-j42eb3eesvbvvl5cdp1cbftt8a65tcpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCnDj10XaO86GUQK_H_rfkSxHyV0e0C-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721324439801-j42eb3eesvbvvl5cdp1cbftt8a65tcpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
