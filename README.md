@@ -5,5 +5,5 @@
 
 <b>Camera and Photo Editing App</b> 
 <br>created by:
-<br>Shofiyah Izazi (TI 3H - 154118000)
+<br>Shofiyah Izazi (TI 3H - 1541180208)
 <br>Yesaya Galatia Maranatha (TI 3H - 1541180006)
